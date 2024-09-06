@@ -25,24 +25,17 @@
   
 ## **Key Insights**
 **Model 1:**
-- Most nutritional constraints non-binding
-- Storage constraint non-binding
-- Demand binding for all items, high sensitivity for burger buns and patties
-- Many supplier constraints binding (e.g., buns, Kraft cheese)
+- Most nutritional constraints non-binding, Storage constraint non-binding, Demand binding for all items, high sensitivity for burger buns and patties, Many supplier constraints binding (e.g., buns, Kraft cheese)
 - Takeaway: Balanced menu optimization; high-demand items critical
 - Recommendation: Renegotiate supplier contracts, focus on high-impact items\
 
 **Model 2:**
-- Demand and supplier constraints binding
-- Storage constraint non-binding
-- High sensitivity to burger demand
+- Demand and supplier constraints binding, Storage constraint non-binding, High sensitivity to burger demand
 - Takeaway: Removing nutritional guidelines allows slightly cheaper costs
 - Recommendation: Renegotiate supplier contracts; benefits of nutritional constraints may outweigh minimal cost savings
 
 **Model 3:**
-- Demand constraints binding
-- Storage constraint non-binding
-- High sensitivity to most demand constraints
+- Demand constraints binding, Storage constraint non-binding, High sensitivity to most demand constraints
 - Takeaway: Simplifying supply doesn't significantly impact nutritional demands; minimal cost differences between suppliers
 - Recommendation: Prioritize improving nutritional constraints over supplier constraints if cost savings needed
 
